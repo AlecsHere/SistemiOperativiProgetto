@@ -1,0 +1,17 @@
+Come compilare ed eseguire
+
+Aprire il terminale nella cartella del progetto ed eseguire il comando "make".
+In seguito aprire la configurazione macchina umps3 "TestConfig" all'interno della cartella tester, ed avviare.
+La stampa verrà effettuata sul terminale 0, aperto con alt+0.
+Per cancellare i file oggetto, eseguire il comando "make clean".
+
+
+Suddivisione del lavoro:
+
+Fase 1:
+PCB = Angelo Greco
+ASH = Andrea Gelmi
+Namespaces = Vlad Alexandru Stefanuca
+
+Fase 2:
+Tutti i componenti del gruppo hanno lavorato assieme per l'implementazione delle varie funzioni.
